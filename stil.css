@@ -1,0 +1,73 @@
+.girisyap{
+	margin: auto;
+}
+.gresim{
+	background-image: url(giris-resmi.png);
+	width: 100%;
+	min-height: 750px;
+	background-size :cover;
+	background-position: center center;
+	margin-top: -9px;
+}
+
+.kresim{
+	background-image: url(kayit-resmi.jpg);
+	width: 100%;
+	min-height: 750px;
+	background-size :cover;
+	background-position: center center;
+	margin-top: -8px;
+}
+.girisyap{
+	position:relative;
+	top:50px;
+}
+.kayitol{
+	position:relative;
+	top:50px;
+}
+.blogo{
+	height: 30px;
+	width: 30px;
+}
+.footerA{
+	color: white;
+	text-decoration: none;
+}
+.footerli{
+	list-style-type:none;
+}
+.hakkimizdaResim{
+	width:  600 px;
+	height: 400px;
+	
+}
+.sectionhakkimizda{
+	margin-top:-8px;
+	padding:15px;
+	background-color: #eaeaea;
+}
+.sosyalli{
+	list-style-type:none;
+	float:left;
+
+}
+.arkarenk{
+	background-color: #eaeaea;
+}
+.saklama{
+	list-style-type:none;
+	color: #eaeaea;
+}
+.iletisim{
+	background-color:#eaeaea;
+	width: 100%;
+	min-height: 750px;
+	background-size :cover;
+	background-position: center center;
+	margin-top: -8px;
+}
+.iletisimform{
+	position: relative;
+	top: 30px;
+}
